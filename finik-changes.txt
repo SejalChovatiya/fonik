@@ -1,0 +1,5 @@
+Collapsed sidevar:
+	- vertical active color
+
+Forms:
+	- Summernote
